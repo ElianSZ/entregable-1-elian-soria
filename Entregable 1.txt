@@ -1,0 +1,18 @@
+Game object llamado "Player" (con Prefab hecho)
+4 cubos --> Cuerpo, brazos y placa frontal
+3 esferas (las 3 con escala diferente a 1, 1, 1) --> Cabeza y ojos
+8 cilindros (todos con rotación diferente a 0, 0, 0) --> Ruedas y cañones
+1 píldora --> Parte de arriba cabeza
+5 materiales diferentes, uno con transparencia (parte superior cabeza), 2 con texturas, 2 con colores planos y reflejos
+
+Game object llamado "Enemy" (con Prefab variant hecho)
+4 cubos --> Cuerpo, brazos y placa frontal
+3 esferas (las 3 con escala diferente a 1, 1, 1) --> Cabeza y ojos
+9 cilindros (todos con rotación diferente a 0, 0, 0) --> Ruedas, cañones y boca
+1 píldora --> Parte de arriba cabeza
+5 materiales diferentes, uno con transparencia (parte superior cabeza), 2 con texturas (1 material nuevo), 2 con colores planos (1 material nuevo) y reflejos
+
+Los prefabs están guardados en la carpeta Prefabs
+Los materiales están guardados en la carpeta Materials
+Las texturas están guardadas en la carpeta Textures
+La escena está guardada en la carpeta Scene
